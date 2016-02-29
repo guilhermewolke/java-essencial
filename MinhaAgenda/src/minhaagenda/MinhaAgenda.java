@@ -4,22 +4,19 @@
  * and open the template in the editor.
  */
 
-package curso.java.essencial;
+package minhaagenda;
 
 /**
  *
  * @author Guilherme
  */
-public class CursoJavaEssencial {
+public class MinhaAgenda {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        Formulario FrmInicial = new Formulario();
-        FrmInicial.setVisible(true);
     }
     
 }
