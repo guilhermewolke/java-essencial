@@ -4,21 +4,21 @@
  * and open the template in the editor.
  */
 
-package minhaagenda;
+package calculadora;
 
 /**
  *
  * @author Guilherme
  */
-public class MinhaAgenda {
+public class Calculadora {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Cadastro frmCadastro = new Cadastro();
-        frmCadastro.setVisible(true);
+        Inicial frmInicial = new Inicial();
+        frmInicial.setVisible(true);
     }
     
 }
