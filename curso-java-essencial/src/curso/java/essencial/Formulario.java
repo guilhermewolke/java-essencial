@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package curso.java.essencial;
+package curso.java.essential;
 
 import javax.swing.JOptionPane;
 
